@@ -20,10 +20,10 @@ Link to TankHealth.cs: https://github.com/PatrykOwczarz/Tank-Game/blob/main/Tank
 Link to Script for orientation of Health bar: https://github.com/PatrykOwczarz/Tank-Game/blob/main/Tank%20game/Assets/Scripts/UIDirectionControl.cs
 
 # Areas of Improvement:
-- Level design: The level design was an oversight as we wanted to make sure the game was functional before the end of the academy event. Having a more interesting level would lead to a more interesting gameplay loop.
-- Animations: Currently the tank just instantly changes its facing direction which does not represetn how a tank would move in the real world. A huge improvement would be to smooth out the movement by actually making the tank rotate.
-- AI: The AI was incredibly simple and hence the game does not really have any challenge. The AI follows the player and when it reaches a certain distance away it just stands still and shoots at the player. Making the tanks have some sort of random movements and predicting where the player is moving to shoot in front of them with a bit of variance would make this game more fun and challenging to play.
-- Bullet Collision: Currently the enemy and player bullets can collide mid air, making it frustrating to try and defeat the enemy tanks given the current AI. I considered it a feature as you can "deflect" bullets mid air but implementing other ammo that would ignore collisions could be a good solution.
+- **Level design:** The level design was an oversight as we wanted to make sure the game was functional before the end of the academy event. Having a more interesting level would lead to a more interesting gameplay loop.
+- **Animations:** Currently the tank just instantly changes its facing direction which does not represetn how a tank would move in the real world. A huge improvement would be to smooth out the movement by actually making the tank rotate.
+- **AI:** The AI was incredibly simple and hence the game does not really have any challenge. The AI follows the player and when it reaches a certain distance away it just stands still and shoots at the player. Making the tanks have some sort of random movements and predicting where the player is moving to shoot in front of them with a bit of variance would make this game more fun and challenging to play.
+- **Bullet Collision:** Currently the enemy and player bullets can collide mid air, making it frustrating to try and defeat the enemy tanks given the current AI. I considered it a feature as you can "deflect" bullets mid air but implementing other ammo that would ignore collisions could be a good solution.
 
 # Demo Video:
 Demo: https://www.youtube.com/watch?v=-8v2ylwdyPk
